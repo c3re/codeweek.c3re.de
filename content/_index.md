@@ -5,7 +5,7 @@ draft: false
 ---
 
 ## Die EU CodeWeek 
-Die Zukunft wird digital, Technik nimmt immer mehr Raum in unserer Gesellschaft ein. Pro- grammcodes steuern unsere digitale Welt und damit unser tägliches Leben. Wer ihre Sprache spricht, kann unsere Zukunft aktiv, individuell und kreativ mitgestalten. Daher ist Coding so wichtig. Du kannst während der EU Code Week spielerisch die Welt der Technik erleben und erfährst, dass Programmieren Spaß macht.
+Die Zukunft wird digital, Technik nimmt immer mehr Raum in unserer Gesellschaft ein. Programmcodes steuern unsere digitale Welt und damit unser tägliches Leben. Wer ihre Sprache spricht, kann unsere Zukunft aktiv, individuell und kreativ mitgestalten. Daher ist Coding so wichtig. Du kannst während der EU Code Week spielerisch die Welt der Technik erleben und erfährst, dass Programmieren Spaß macht.
 
 Die EU CodeWeek findet in diesem Jahr zum sechsten Mal statt. Eine Woche lang dreht sich europaweit in hunderten Projekten von Initiativen, Privatpersonen, Firmen und Schulen alles um die spielerische Vermittlung von Code.
 
@@ -34,7 +34,7 @@ Die Teilnahme ist kostenlos.
 
 #### • mit dem Auto oder Fahrrad:
 
-Über die Dorstener Straße stadtauswärts, hinter der Zeppelinstraße rechts abbiegen auf den Westcharweg, dann links Richtung Zeche Blu- menthal 7, Hinweisschild „Chaostreff RE / c3RE e.V.“ nach links. Die Veranstaltung findet in der Hackerhütte vorne links statt.
+Über die Dorstener Straße stadtauswärts, hinter der Zeppelinstraße rechts abbiegen auf den Westcharweg, dann links Richtung Zeche Blumenthal 7, Hinweisschild „Chaostreff RE / c3RE e.V.“ nach links. Die Veranstaltung findet in der Hackerhütte vorne links statt.
 
 #### • mit dem Bus:
 
@@ -55,4 +55,4 @@ c3RE e.V.
 
 c/o P. Knüwer, Marderweg 4, 45721 Haltern a. See Web: www.c3re.de
 
-Mail: infok@c3re.de
+Mail: info@c3re.de
