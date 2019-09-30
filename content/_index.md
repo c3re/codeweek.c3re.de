@@ -17,13 +17,18 @@ am Samstag, 12. Oktober, einen Workshop zum Thema an.
 
 Wir sind ein gemeinnütziger Verein, der sich zum Ziel gesetzt hat, technische Systeme, Computer und Algorithmen in ihren Anwendungen und Auswirkungen zu verstehen. Wir wollen dies ei- ner breiten Öffentlichkeit zugänglich machen – in praktischer, aber auch spielerisch-künstlerischer und kritischer Form.
 
-Anmeldung
+## Anmeldung
 
 Du bist mindestens 12 Jahre alt und willst erste Schritte in der Programmierung machen? Dann melde dich an!
-Das ist ganz einfach: Sende uns eine Mail an schule@c3re.de, wir melden uns bei dir.
+Das ist ganz einfach: Sende uns eine Mail an 
+
+__codeweek@c3re.de__
+
+, wir melden uns bei dir.
 Bringe bitte dein eigenes Notebook mit. Wenn du keines hast, dann schreibe uns das bitte in deiner Anmeldung.
 
 Die Teilnahme ist kostenlos.
+
 
 ### Anfahrt
 
@@ -43,10 +48,11 @@ Westcharweg 101 in 45659 Recklinghausen.
 
 N 51° 37.46304‘ E 007°10.15752‘ oder 51.624384, 7.169292
 
+
 ### Impressum & Kontakt 
 
 c3RE e.V.
 
 c/o P. Knüwer, Marderweg 4, 45721 Haltern a. See Web: www.c3re.de
 
-Mail: codeweek@c3re.de
+Mail: infok@c3re.de
