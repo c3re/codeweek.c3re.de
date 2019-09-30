@@ -1,0 +1,35 @@
+baseURL = "https://codeweek.c3re.de"
+languageCode = "de-de"
+title = "CoodWeek @c3RE"
+theme = "hugo-split-theme"
+paginate = 5
+twitterHandle = "c3_re"
+copyright = "&copy;2019 c3RE"
+
+[params]
+    author = "c3re.de"
+    description = "Die "
+    avatar = "images/logo.png" 
+[params.visual.image]
+      enable = true
+      file = "images/2019Plakat.png"
+      position = "fixed fixed"
+
+    [[params.social]]
+    name = "home"
+    url = "https://c3re.de"
+    
+    [[params.social]]
+    name = "github"
+    url = "https://github.com/c3re"
+    
+    [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/c3_re"
+
+    [params.style]
+    darkestColor = "#315659"
+    darkColor = "#253031"
+    primaryColor = "#519949"
+    lightColor = "#dddddd"
+    lightestColor = "#fff"
