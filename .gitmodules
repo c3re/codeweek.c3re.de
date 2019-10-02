@@ -1,6 +1,3 @@
-[submodule "themes/m10c"]
-	path = themes/m10c
-	url = https://github.com/vaga/hugo-theme-m10c.git
 [submodule "themes/hugo-split-theme"]
 	path = themes/hugo-split-theme
 	url = https://github.com/DevTown/hugo-split-theme.git
