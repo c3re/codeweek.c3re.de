@@ -5,10 +5,12 @@ theme = "hugo-split-theme"
 paginate = 5
 twitterHandle = "c3_re"
 copyright = "&copy;2019 c3RE"
+DefaultContentLanguage = "de"
+
 
 [params]
     author = "c3re.de"
-    description = "Die "
+    description = "Chaostreff Recklinghausen"
     avatar = "images/logo.png" 
 [params.visual.image]
       enable = true
