@@ -1,6 +1,6 @@
 baseURL = "https://codeweek.c3re.de"
 languageCode = "de-de"
-title = "CoodWeek @c3RE"
+title = "CodeWeek @c3RE"
 theme = "hugo-split-theme"
 paginate = 5
 twitterHandle = "c3_re"
