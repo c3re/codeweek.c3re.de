@@ -54,6 +54,3 @@ Die Teilnahme ist kostenlos.
 - nach Koordinaten:
 
     N 51° 37.46304‘ E 007°10.15752‘ oder 51.624384, 7.169292
-
-
-[Impressum](https://www.c3re.de/impressum/)
