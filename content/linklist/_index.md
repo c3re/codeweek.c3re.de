@@ -27,3 +27,6 @@ draft: false
 ## kostenlose Codeeditoren
 - [VisualStudio Code](https://code.visualstudio.com/)
 - [Arduino](https://www.arduino.cc/en/Main/Software)
+
+## Weitere Links
+- [Mögliche erweiterungen](https://www.makeyourschool.de/material/)

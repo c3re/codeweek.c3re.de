@@ -27,5 +27,9 @@ DefaultContentLanguage = "de"
         url = "linklist"
 
       [[params.links.list1.link]]
+        text = "Teileliste"
+        url = "partlist"
+
+      [[params.links.list1.link]]
         text = "Impressum"
         url = "https://www.c3re.de/impressum/"
