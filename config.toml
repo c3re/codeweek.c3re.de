@@ -17,21 +17,19 @@ DefaultContentLanguage = "de"
       file = "images/2019Plakat.png"
       position = "fixed fixed"
 
-    [[params.social]]
-    name = "home"
-    url = "https://c3re.de"
-    
-    [[params.social]]
-    name = "github"
-    url = "https://github.com/c3re"
-    
-    [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/c3_re"
 
-    [params.style]
-    darkestColor = "#315659"
-    darkColor = "#253031"
-    primaryColor = "#519949"
-    lightColor = "#dddddd"
-    lightestColor = "#fff"
+[[params.links]]
+    [params.links.list1]
+      heading = "Weitere Links"
+
+      [[params.links.list1.link]]
+        text = "Linkliste"
+        url = "linklist"
+
+      [[params.links.list1.link]]
+        text = "Teileliste"
+        url = "partlist"
+
+      [[params.links.list1.link]]
+        text = "Impressum"
+        url = "https://www.c3re.de/impressum/"
