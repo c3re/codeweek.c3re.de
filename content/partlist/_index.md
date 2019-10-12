@@ -14,3 +14,4 @@ draft: false
 - Seeed Studio Grove - Red LED Button
 - Seeed Studio Grove - Multi Color Flash LED (5mm)
 - Seeed Studio Grove - Ultraschall-Entfernungssensor V2.0
+- Seeed Studio Grove - 16 x 2 LCD-Display (weiß auf blau)
