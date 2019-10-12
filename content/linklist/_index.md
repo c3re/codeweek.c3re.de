@@ -29,4 +29,4 @@ draft: false
 - [Arduino](https://www.arduino.cc/en/Main/Software)
 
 ## Weitere Links
-- [Mögliche erweiterungen](https://www.makeyourschool.de/material/)
+- [Mögliche Erweiterungen](https://www.makeyourschool.de/material/)
