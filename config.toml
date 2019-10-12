@@ -24,11 +24,11 @@ DefaultContentLanguage = "de"
 
       [[params.links.list1.link]]
         text = "Linkliste"
-        url = "linklist"
+        url = "linklist/index.html"
 
       [[params.links.list1.link]]
         text = "Teileliste"
-        url = "partlist"
+        url = "partlist/index.html"
 
       [[params.links.list1.link]]
         text = "Impressum"
