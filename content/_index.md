@@ -9,15 +9,15 @@ Die Zukunft wird digital, Technik nimmt immer mehr Raum in unserer Gesellschaft 
 
 Die EU CodeWeek findet in diesem Jahr zum sechsten Mal statt. Eine Woche lang dreht sich europaweit in hunderten Projekten von Initiativen, Privatpersonen, Firmen und Schulen alles um die spielerische Vermittlung von Code.
 
-Auch der c3RE e.V. macht mit und bietet
-am Samstag, 12. Oktober, einen Workshop zum Thema an.
+Auch der c3RE e.V. machte mit und bietete
+am Samstag, 12. Oktober 2019, einen Workshop zum Thema an.
 
 ## CodeWeek 2019
 In diesem Jahr tauchen wir im Rahmen der EU CodeWeek in die Welt der Mikrocontroller ein. Dazu nutzen wir den "BBC micro:bit"-Computer. Der micro:bit lässt sich benutzerfreundlich ohne großes Einrichten über einen Webbrowser programmieren. Einsteiger starten für schnelle Erfolgserlebnisse mit der Block-Programmiersprache. Fortgeschrittene können ihre Fähigkeiten in den Programmiersprachen JavaScript oder Python ausleben.
 
 Auf dem micro:bit gibt es eine kleine LED-Matrix. Die LEDs können wir blinken lassen und einfache Emoji damit darstellen. Anschließend koppeln wir den Computer mit Sensoren und Aktoren, um z. B. eine Alarmanlage für dein Zimmer zu bauen. Darüber hinaus bleibt ausreichend Raum für die Ausgestaltung und Umsetzung kleiner eigener Ideen. 
 
-Die Veranstaltung findet am Samstag, 21.03.2020 von 13 bis ca. 20 Uhr statt. Für unsere Planungen des Events ist eine kostenfreie formlose Anmeldung über codeweek@c3re.de erforderlich.
+**Die Veranstaltung findet am Samstag, 21.03.2020 von 13 bis ca. 20 Uhr statt. Für unsere Planungen des Events ist eine kostenfreie formlose Anmeldung über codeweek@c3re.de erforderlich.**
 
 
 ## Der c3RE e.V.
