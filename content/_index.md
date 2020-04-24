@@ -17,6 +17,7 @@ In diesem Jahr tauchen wir im Rahmen der EU CodeWeek in die Welt der Mikrocontro
 
 Auf dem micro:bit gibt es eine kleine LED-Matrix. Die LEDs können wir blinken lassen und einfache Emoji damit darstellen. Anschließend koppeln wir den Computer mit Sensoren und Aktoren, um z. B. eine Alarmanlage für dein Zimmer zu bauen. Darüber hinaus bleibt ausreichend Raum für die Ausgestaltung und Umsetzung kleiner eigener Ideen. 
 
+## Die Veranstaltung wurde aufgrund der aktuellen Lage abgesagt!!!
 **Die Veranstaltung findet am Samstag, 21.03.2020 von 13 bis ca. 20 Uhr statt. Für unsere Planungen des Events ist eine kostenfreie formlose Anmeldung über codeweek@c3re.de erforderlich.**
 
 
