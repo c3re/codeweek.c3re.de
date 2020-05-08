@@ -1,1 +1,1 @@
-codeweek.c3re.de
+https://codeweek.c3re.de
