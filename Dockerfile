@@ -9,8 +9,8 @@ RUN apt-get install -y hugo
 # directory. The directory will be created if it doesn't exist.
 COPY . /hugo-site
 WORKDIR /hugo-site
-RUN git submodule init
-RUN git submodule update
+#RUN git submodule init
+#RUN git submodule update
 
 # Use Hugo to build the static site files.
 RUN hugo -v -D
